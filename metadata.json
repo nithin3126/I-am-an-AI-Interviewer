@@ -1,0 +1,8 @@
+{
+  "name": "I am an AI interviewer",
+  "description": "An adaptive, AI-driven mock interview platform that simulates real-world technical assessments using the Gemini API. Features multi-stage interviews, difficulty scaling, and comprehensive performance analytics.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
